@@ -1,6 +1,6 @@
 {
   "name": "@m1st1ck/useasync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -50,7 +50,8 @@
     "uuid": "^9.0.0"
   },
   "peerDependencies": {
-    "react": ">=18.2.0"
+    "react": ">=18.2.0",
+    "uuid": "^9.0.0"
   },
   "files": [
     "dist"
